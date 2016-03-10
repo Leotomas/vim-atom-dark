@@ -39,7 +39,7 @@ hi Error           guifg=#A8FF60 guibg=#1E0010
 hi ErrorMsg        guifg=#92C5F7 guibg=#232526 gui=none
 hi Exception       guifg=#DAD085               gui=none
 hi Float           guifg=#99CC99
-hi FoldColumn      guifg=#465457 guibg=#000000
+hi FoldColumn      guifg=#465457 guibg=#1C1C1C
 hi Folded          guifg=#465457 guibg=#000000
 hi Function        guifg=#DAD085
 hi Identifier      guifg=#B6B7EB
@@ -79,8 +79,8 @@ if has("spell")
     hi SpellRare   guisp=#FFFFFF gui=undercurl
 endif
 hi Statement       guifg=#92C5F7               gui=none
-hi StatusLine      guifg=#455354 guibg=fg      gui=none
-hi StatusLineNC    guifg=#808080 guibg=#080808
+hi StatusLine      guifg=#1C1C1C guibg=#808080
+hi StatusLineNC    guifg=#1C1C1C guibg=#515151
 hi StorageClass    guifg=#B6B7EB               gui=none
 hi Structure       guifg=#66D9EF
 hi Tag             guifg=#92C5F7               gui=none
@@ -91,7 +91,7 @@ hi Typedef         guifg=#66D9EF
 hi Type            guifg=#66D9EF               gui=none
 hi Underlined      guifg=#808080               gui=underline
 
-hi VertSplit       guifg=#808080 guibg=#080808
+hi VertSplit       guifg=#101010  guibg=#101010
 hi VisualNOS                     guibg=#403D3D
 hi Visual                        guibg=#403D3D
 hi WarningMsg      guifg=#FFFFFF guibg=#333333
