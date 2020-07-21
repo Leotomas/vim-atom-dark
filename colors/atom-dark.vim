@@ -30,8 +30,8 @@ hi Debug           guifg=#BCA3A3               gui=none
 hi Define          guifg=#66D9EF
 hi Delimiter       guifg=#8F8F8F
 hi DiffAdd                       guibg=#13354A
-hi DiffChange      guifg=#89807D guibg=#4C4745
-hi DiffDelete      guifg=#960050 guibg=#1E0010
+hi DiffChange      guifg=#BCA3A3               gui=none
+hi DiffDelete      guifg=#FF0000 guibg=#1E0010
 hi DiffText                      guibg=#4C4745 gui=none
 
 hi Directory       guifg=#AAAAAA               gui=none
